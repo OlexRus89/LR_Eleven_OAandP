@@ -1,0 +1,13 @@
+C:\Users\lesha\OneDrive\Desktop\LR_Eleven\LR_Eleven\bin\Debug\netcoreapp3.1\LR_Eleven.exe
+C:\Users\lesha\OneDrive\Desktop\LR_Eleven\LR_Eleven\bin\Debug\netcoreapp3.1\LR_Eleven.deps.json
+C:\Users\lesha\OneDrive\Desktop\LR_Eleven\LR_Eleven\bin\Debug\netcoreapp3.1\LR_Eleven.runtimeconfig.json
+C:\Users\lesha\OneDrive\Desktop\LR_Eleven\LR_Eleven\bin\Debug\netcoreapp3.1\LR_Eleven.runtimeconfig.dev.json
+C:\Users\lesha\OneDrive\Desktop\LR_Eleven\LR_Eleven\bin\Debug\netcoreapp3.1\LR_Eleven.dll
+C:\Users\lesha\OneDrive\Desktop\LR_Eleven\LR_Eleven\bin\Debug\netcoreapp3.1\LR_Eleven.pdb
+C:\Users\lesha\OneDrive\Desktop\LR_Eleven\LR_Eleven\obj\Debug\netcoreapp3.1\LR_Eleven.csprojAssemblyReference.cache
+C:\Users\lesha\OneDrive\Desktop\LR_Eleven\LR_Eleven\obj\Debug\netcoreapp3.1\LR_Eleven.AssemblyInfoInputs.cache
+C:\Users\lesha\OneDrive\Desktop\LR_Eleven\LR_Eleven\obj\Debug\netcoreapp3.1\LR_Eleven.AssemblyInfo.cs
+C:\Users\lesha\OneDrive\Desktop\LR_Eleven\LR_Eleven\obj\Debug\netcoreapp3.1\LR_Eleven.csproj.CoreCompileInputs.cache
+C:\Users\lesha\OneDrive\Desktop\LR_Eleven\LR_Eleven\obj\Debug\netcoreapp3.1\LR_Eleven.dll
+C:\Users\lesha\OneDrive\Desktop\LR_Eleven\LR_Eleven\obj\Debug\netcoreapp3.1\LR_Eleven.pdb
+C:\Users\lesha\OneDrive\Desktop\LR_Eleven\LR_Eleven\obj\Debug\netcoreapp3.1\LR_Eleven.genruntimeconfig.cache
